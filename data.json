@@ -1,0 +1,20 @@
+{
+    "abrar": {
+        "name": "abrar",
+        "mobile number": 12345678912,
+        "account balance": 60000,
+        "user pin": "1122"
+    },
+    "faheem": {
+        "name": "faheem",
+        "mobile number": 12345678911,
+        "account balance": 3000,
+        "user pin": "1122"
+    },
+    "ahmad": {
+        "name": "ahmad",
+        "mobile number": 12345678912,
+        "account balance": 445000,
+        "user pin": "1234"
+    }
+}
